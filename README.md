@@ -3,6 +3,9 @@ This repository contains the implementation of Neural Architecture Codesign (NAC
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14618350.svg)](https://doi.org/10.5281/zenodo.14618350)
 
+## Framework Branch
+WIP: Framework for general usage with keras and a Deep Sets example as a tutorial walkthrough.
+
 ## Overview
 
 NAC automates the design of deep learning models for physics applications while considering hardware constraints. The framework uses neural architecture search and network compression in a two-stage approach:
